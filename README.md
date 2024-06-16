@@ -1,1 +1,1 @@
-# 1D---2D-Arr
+BT mảng 1 chiều - 2 chiều
