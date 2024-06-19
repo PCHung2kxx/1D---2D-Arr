@@ -15,7 +15,7 @@ def chuyenvi(mat):
     for i in range(cot):
         l=[]
         for j in range(hang):
-            l.append(mat[j][i])
+            l.append(mat[j][i]) #đổi hàng thành cột
         newmat.append(l)
     return newmat
 
